@@ -6,13 +6,14 @@
 | 2026-09-12 | T1 | Best Remodeling and Construction | sent Michael@BestRandC.com |
 | 2026-09-12 | T1 | Crosspoint Contracting | sent cliff@crosspointcontracting.com |
 | 2026-09-12 | T1 | Hopkins Construction | sent INFO@HOPCON.NET |
+| 2026-09-12 | T1 | AEH Builders | sent info@aehbuilders.com (Valcon replacement) |
 
-Sent 4 · Bounce 0 · Reply 0 · Remove 0
+Sent 5 · Bounce 0 · Reply 0 · Remove 0
 
 ## By touch
 | Touch | Sent | Replies | Notes |
 |-------|------|---------|-------|
-| T1 | 4 | 0 | 2026-09-12 after Pages 200 |
+| T1 | 5 | 0 | 4 cohort + AEH replacement same day |
 | T2 | 0 | 0 | due ~09-15/16 |
 | T3 | 0 | 0 | |
 | T4 | 0 | 0 | |
